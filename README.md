@@ -17,8 +17,8 @@
 - 📚 Baca komik lengkap
 - 🚫 Tanpa iklan (No Ads)
 - ⚡ Ringan & cepat
-- 🔒 Aman digunakan
 - 🎨 Tampilan modern
+- 🔒 Aman digunakan
 
 ---
 
@@ -27,7 +27,7 @@
 Klik di bawah untuk mendownload versi full:
 
 <p align="center">
-  <a href="MASUKKAN_LINK_APK_DI_SINI">
+  <a href="https://github.com/Jahidin123/KOMIKINDO-VERSI-ALTER-1.1.38/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/⬇️%20Download%20APK-Komikindo%20Alter-blue?style=for-the-badge&logo=android&logoColor=white">
   </a>
 </p>
@@ -37,22 +37,22 @@ Klik di bawah untuk mendownload versi full:
 ## 📦 Informasi Aplikasi
 - **Nama**: Komikindo Alter  
 - **Versi**: 1.1.38  
-- **Ukuran**: (isi sesuai file kamu)  
 - **Format**: APK  
 
 ---
 
 ## ⚙️ Cara Install
-1. Download file APK
-2. Aktifkan **Sumber Tidak Dikenal** di pengaturan Android
-3. Buka file APK
-4. Install dan selesai ✅
+1. Download file ZIP / APK
+2. Extract jika berbentuk ZIP
+3. Aktifkan **Sumber Tidak Dikenal**
+4. Install APK
+5. Selesai ✅
 
 ---
 
 ## ⚠️ Disclaimer
-Aplikasi ini dibuat untuk tujuan pembelajaran dan hiburan.  
-Gunakan dengan bijak.
+Gunakan aplikasi ini dengan bijak.  
+Semua risiko penggunaan ditanggung oleh pengguna.
 
 ---
 
@@ -65,4 +65,4 @@ Gunakan dengan bijak.
 ---
 
 ## ⭐ Dukungan
-Jika kamu suka project ini, jangan lupa kasih ⭐ di repository ini!
+Jangan lupa kasih ⭐ di repo ini jika kamu suka!
